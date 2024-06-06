@@ -21,7 +21,7 @@ pillow
 psutil
 pycryptodome
 pymongo
-https://github.com/KurimuzonAkuma/pyrogram/archive/refs/tags/v2.1.19.zip
+https://github.com/KurimuzonAkuma/pyrogram/archive/refs/tags/v2.1.21.zip
 python-dotenv
 python-magic
 qbittorrent-api
